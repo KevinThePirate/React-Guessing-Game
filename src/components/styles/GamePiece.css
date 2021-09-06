@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+.game-piece {
+  width: calc(100% / 6);
+  border: 5px solid black;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 10px;
+  display: inline-block;
+  background-color: #738598;
+  color: #dfe2e2;
+}
+.game-piece h3:hover {
+  color: #1cb3c8;
+}
+img {
+  width: 100%;
+}
