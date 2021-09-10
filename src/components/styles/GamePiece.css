@@ -17,3 +17,7 @@
 img {
   width: 100%;
 }
+.clicked {
+  background-color: red;
+  border-radius: 100px;
+}
